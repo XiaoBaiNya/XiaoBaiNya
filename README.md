@@ -26,6 +26,16 @@ Currently learning and building things with:
 
 ---
 
+### Profile Views
+
+![](https://count.getloli.com/@XiaoBaiNya?theme=gelbooru-h)
+</br>
+
+
+</p>
+
+---
+
 
 
 <p align="center">
