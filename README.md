@@ -28,7 +28,7 @@ Currently learning and building things with:
 
 ### Profile Views
 
-![](https://count.getloli.com/@XiaoBaiNya?theme=gelbooru-h)
+![](https://count.getloli.com/@XiaoBaiNya?theme=gelbooru)
 </br>
 
 
