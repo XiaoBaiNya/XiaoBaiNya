@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm XiaoBai 👋
 
-<!--
-**XiaoBaiNya/XiaoBaiNya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Computer Science Student · Linux Enthusiast · Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in **software development, Linux, networking, and open source**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and building things with:
+
+* 🐧 Linux / Arch Linux
+* 💻 C / C++ / Python
+* 🌐 Networking & Network Security
+* 🛠️ Git / GitHub
+* 🎮 Minecraft Modding & Server
+* 🧩 Vue / Django
+* 🤖 Local LLM & AI Tools
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,arch,bash,c,cpp,python,vue,django,git,github,docker,neovim" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XiaoBaiNya&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoBaiNya&layout=compact&hide_border=true&theme=transparent" height="165">
+</p>
+
+---
+
+## 🔥 Contribution
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=XiaoBaiNya&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/XiaoBaiNya/XiaoBaiNya/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+
+<p align="center">
+  <sub>Thanks for visiting my profile.</sub>
+</p>
